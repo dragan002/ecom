@@ -10,8 +10,11 @@
     <link rel="stylesheet" href="css/owl.carousel.min.css">
     <link rel="stylesheet" href="css/owl.theme.default.min.css">
     <link rel="stylesheet" href="css/bootstrap.min.css">
-    <link rel="stylesheet" href="css/styless.css">
+    <link rel="stylesheet" href="css/stylesss.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="css/media.css">
+
+
     <title>::Ecommerce</title>
 </head>
 
@@ -99,6 +102,137 @@
 
             </div>
         </div>
+
+        <!-- Work area -->
+        <div class="container-fluid">
+            <!-- product section -->
+
+            <section class="product-section">
+                <div class="section-heading">
+                    <h3 class="heading">Latest Products</h3>
+                </div>
+
+                <div class="section-product-cards">
+                    <div class="owl-carousel">
+
+                        <div class="product-card">
+                            <div class="product-image">
+                                <img src="images/l4.jpg" alt="">
+                            </div>
+                            <!-- Product contents -->
+                            <div class="card-contents">
+                                <button type="button" class="btn btn-warning cart-btn">
+                                    <i class="fas fa-cart-plus"></i>
+                                </button>
+                            </div>
+
+                            <div class="product-details">
+                                <!-- product name -->
+                                <h5 class="product-name">Men's T-Shirt with Sport Mark</h5>
+                                <p class="product-price"><small class="text-danger"><s>KM 99</s></small>
+                                    <span class="text-success">KM 79</span>
+                                </p>
+                            </div>
+                        </div>
+                        <div class="product-card">
+                            <div class="product-image">
+                                <img src="images/alan.JPG" alt="">
+                            </div>
+                            <!-- Product contents -->
+                            <div class="card-contents">
+                                <button type="button" class="btn btn-warning cart-btn">
+                                    <i class="fas fa-cart-plus"></i>
+                                </button>
+                            </div>
+
+                            <div class="product-details">
+                                <!-- product name -->
+                                <h5 class="product-name">Men's T-Shirt with Sport Mark</h5>
+                                <p class="product-price"><small class="text-danger"><s>KM 99</s></small>
+                                    <span class="text-success">KM 79</span>
+                                </p>
+                            </div>
+                        </div>
+                        <div class="product-card">
+                            <div class="product-image">
+                                <img src="images/beast.JPG" alt="">
+                            </div>
+                            <!-- Product contents -->
+                            <div class="card-contents">
+                                <button type="button" class="btn btn-warning cart-btn">
+                                    <i class="fas fa-cart-plus"></i>
+                                </button>
+                            </div>
+
+                            <div class="product-details">
+                                <!-- product name -->
+                                <h5 class="product-name">Men's T-Shirt with Sport Mark</h5>
+                                <p class="product-price"><small class="text-danger"><s>KM 99</s></small>
+                                    <span class="text-success">KM 79</span>
+                                </p>
+                            </div>
+                        </div>
+                        <div class="product-card">
+                            <div class="product-image">
+                                <img src="images/bholenaath.JPG" alt="">
+                            </div>
+                            <!-- Product contents -->
+                            <div class="card-contents">
+                                <button type="button" class="btn btn-warning cart-btn">
+                                    <i class="fas fa-cart-plus"></i>
+                                </button>
+                            </div>
+
+                            <div class="product-details">
+                                <!-- product name -->
+                                <h5 class="product-name">Men's T-Shirt with Sport Mark</h5>
+                                <p class="product-price"><small class="text-danger"><s>KM 99</s></small>
+                                    <span class="text-success">KM 79</span>
+                                </p>
+                            </div>
+                        </div>
+                        <div class="product-card">
+                            <div class="product-image">
+                                <img src="images/play-t-shirt.JPG" alt="">
+                            </div>
+                            <!-- Product contents -->
+                            <div class="card-contents">
+                                <button type="button" class="btn btn-warning cart-btn">
+                                    <i class="fas fa-cart-plus"></i>
+                                </button>
+                            </div>
+
+                            <div class="product-details">
+                                <!-- product name -->
+                                <h5 class="product-name">Men's T-Shirt with Sport Mark</h5>
+                                <p class="product-price"><small class="text-danger"><s>KM 99</s></small>
+                                    <span class="text-success">KM 79</span>
+                                </p>
+                            </div>
+                        </div>
+                        <div class="product-card">
+                            <div class="product-image">
+                                <img src="images/hope-pin.JPG" alt="">
+                            </div>
+                            <!-- Product contents -->
+                            <div class="card-contents">
+                                <button type="button" class="btn btn-warning cart-btn">
+                                    <i class="fas fa-cart-plus"></i>
+                                </button>
+                            </div>
+
+                            <div class="product-details">
+                                <!-- product name -->
+                                <h5 class="product-name">Men's T-Shirt with Sport Mark</h5>
+                                <p class="product-price"><small class="text-danger"><s>KM 99</s></small>
+                                    <span class="text-success">KM 79</span>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
     </div>
 
     <i class="fas fa-camera-retro"></i>
@@ -110,6 +244,8 @@
     <script src="js/bootstrap.bundle.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
     <script src="js/main.js"></script>
+
+
 </body>
 
 </html>
